@@ -19,6 +19,8 @@ const Navbar=()=> {
                      <Link to='/contact'>
                          Contact Us
                      </Link>
+                     <Link to ='/login'> Login 
+                     </Link>
                  </ul>
                 </div>
             </div>
